@@ -1,0 +1,10 @@
+a=23
+b=4.25
+c="python"
+d=3+5j
+e=True
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
+print(type(e))
